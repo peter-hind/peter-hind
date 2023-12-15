@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey there, I'm Pete! 👋🏻
+[![Linkedin Badge](https://img.shields.io/badge/-PeterHind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-hind/)](https://www.linkedin.com/in/peter-hind/)
 <!--
 **peter-hind/peter-hind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
