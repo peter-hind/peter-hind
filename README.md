@@ -2,7 +2,7 @@
 
 <img align='right' src="https://peter-hind.github.io/img/crazypete.png" width="230">
 
-✒️ - I'm a fullstack developer with a passion for Web3!
+✒️ - I'm a Fullstack Developer with a passion for Web3!
 
 🌱 - Currently studying Solidity and ethers.js
 
